@@ -1,0 +1,30 @@
+# vtk DataFile Version 3.0
+Vector example
+ASCII
+DATASET STRUCTURED_GRID
+DIMENSIONS 2 5 1
+POINTS  10  float
+	0.5	-0.0	0.0
+	1.5	-0.0	0.0
+	0.0	-0.2	0.0
+	1.0	-0.2	0.0
+	0.5	-0.4	0.0
+	1.5	-0.4	0.0
+	0.0	-0.6	0.0
+	1.0	-0.6	0.0
+	0.5	-0.8	0.0
+	1.5	-0.8	0.0
+POINT_DATA 	10 
+ 
+SCALARS S float
+LOOKUP_TABLE default
+		0.0				
+		0.0				
+		8.323752635764823e-07				
+		8.323752635764844e-07				
+		0.0				
+		0.0				
+		8.323752635764844e-07				
+		8.323752635764844e-07				
+		0.0				
+		0.0				
