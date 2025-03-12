@@ -2,14 +2,14 @@
 """
 Created on Mon Sep 23 18:48:32 2024
 
-@author: Oxide
+@author: MAMOUNI
 """
 
 # -*- coding: utf-8 -*-
 """
 Created on Mon Sep  2 15:46:32 2024
 
-@author: Oxide
+@author: MAMOUNI
 """
 
 import vtk
